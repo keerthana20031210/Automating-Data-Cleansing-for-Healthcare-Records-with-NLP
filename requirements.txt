@@ -1,0 +1,6 @@
+fastapi
+pandas
+nltk
+streamlit
+scikit-learn
+uvicorn
